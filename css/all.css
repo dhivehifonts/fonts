@@ -1,0 +1,295 @@
+@font-face {
+  font-family: 'Faruma';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/faruma.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Kirudhooni';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Kirudhooni.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Bolhu Bold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Bolhu__Bold.otf");
+}
+
+@font-face {
+  font-family: 'Haleem faseyha';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_faseyha.otf");
+}
+
+@font-face {
+  font-family: 'Haleem KB';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_KB.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Mathi Bold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Mathi_Bold.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Raaveri';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Raaveri.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Riveli';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Riveli.otf");
+}
+
+@font-face {
+  font-family: 'Haleem SH Bold Italic';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_SH_Bold_Italic.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Thangi Bold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Thangi_Bold.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Thiki Bold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Thiki_Bold.otf");
+}
+
+@font-face {
+  font-family: 'Haleem Uivashaa';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Haleem_Uivashaa.otf");
+}
+
+@font-face {
+  font-family: 'Ilham';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Ilham.TTF");
+}
+
+@font-face {
+  font-family: 'Kaani';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Kaani.otf");
+}
+
+@font-face {
+  font-family: 'Koagannu';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fontfiles/A_Koagannu.TTF");
+}
+
+@font-face {
+  font-family: 'Lakudi College';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Lakudi_College.otf");
+}
+
+@font-face {
+  font-family: 'Lakudi';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Lakudi.otf");
+}
+
+@font-face {
+  font-family: 'Midhili';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Midhili.otf");
+}
+
+@font-face {
+  font-family: 'Uni';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Uni.otf");
+}
+
+@font-face {
+  font-family: 'Waheed College';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/A_Waheed_College.otf");
+}
+
+@font-face {
+  font-family: 'Athu Casual';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Athu_Casual.otf");
+}
+
+@font-face {
+  font-family: 'Avas Thaana';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Avas_Thaana.otf");
+}
+
+@font-face {
+  font-family: 'Bodukuru Light';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/BODUKURU_Light.otf");
+}
+
+@font-face {
+  font-family: 'Hiyani';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/DAM_Hiyani.otf");
+}
+
+@font-face {
+  font-family: 'Kalhi';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/DAM_Kalhi.otf");
+}
+
+@font-face {
+  font-family: 'Kathivalhi';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/DAM_Kathivalhi.otf");
+}
+
+@font-face {
+  font-family: 'Madheeh';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/DAM_Madheeh.otf");
+}
+
+@font-face {
+  font-family: 'Dhivehi';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Dhivehi.ttf");
+}
+
+@font-face {
+  font-family: 'Dhives';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Dhives.ttf");
+}
+
+@font-face {
+  font-family: 'Faiy Light';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Faiy_Light.otf");
+}
+
+@font-face {
+  font-family: 'faseyha';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/faseyha.otf");
+}
+
+@font-face {
+  font-family: ' Kanafala';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Kanafala.ttf");
+}
+
+@font-face {
+  font-family: 'midhilibold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/midhilibold.ttf");
+}
+
+@font-face {
+  font-family: 'Prathama Dva';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV Prathama Dva.ttf");
+}
+
+@font-face {
+  font-family: 'Prathama Ek';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV Prathama Ek.ttf");
+}
+
+@font-face {
+  font-family: 'Prathma Tin';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV Prathma Tin.ttf");
+}
+
+@font-face {
+  font-family: 'Amaan XP';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Amaan_XP.otf");
+}
+
+@font-face {
+  font-family: 'Boli';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV_Boli.otf");
+}
+
+@font-face {
+  font-family: 'Eamaan XP';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Eamaan_XP.otf");
+}
+
+@font-face {
+  font-family: 'Elaaf Lite';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Elaaf_Lite.otf");
+}
+
+@font-face {
+  font-family: 'Elaaf Normal';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Elaaf_Normal.otf");
+}
+
+@font-face {
+  font-family: 'Faseyha';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV_Faseyha.otf");
+}
+
+@font-face {
+  font-family: 'Galan Normal';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Galan_Normal.otf");
+}
+
+@font-face {
+  font-family: 'GroupX Avas Akuru';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_GroupX_Avas_Akuru.otf");
+}
+
+@font-face {
+  font-family: 'Iyyu Formal';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Iyyu_Formal.otf");
+}
+
+@font-face {
+  font-family: 'Iyyu Nala';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Iyyu_Nala.otf");
+}
+
+@font-face {
+  font-family: 'Iyyu Normal';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Iyyu_Normal");
+}
+
+@font-face {
+  font-family: 'Lady Luck';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Lady_Luck.otf");
+}
+
+@font-face {
+  font-family: 'MAG Round Bold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_MAG_Round_Bold.otf");
+}
+
+@font-face {
+  font-family: 'MAG Round HBold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_MAG_Round_HBold.otf");
+}
+
+@font-face {
+  font-family: 'MAG Round XBold';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_MAG_Round_XBold.otf");
+}
+
+@font-face {
+  font-family: 'Sehga Fubaru Fancy';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Sehga_Fubaru_Fancy.otf");
+}
+
+@font-face {
+  font-family: 'Sehga Old';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Mv_Sehga_Old.otf");
+}
+
+@font-face {
+  font-family: 'Waheed';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MV_Waheed.otf");
+}
+
+@font-face {
+  font-family: 'mvtyper';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/mvtyper.ttf");
+}
+
+@font-face {
+  font-family: 'MVWaheed';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/MVWaheed.otf");
+}
+
+@font-face {
+  font-family: 'Nasr Light';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Nasr_Light.otf");
+}
+
+@font-face {
+  font-family: 'Samee Avas Thaana';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/Samee_Avas_Thaana.ttf");
+}
+
+@font-face {
+  font-family: 'utheem';
+  src: url("https://cdn.jsdelivr.net/gh/dhivehifonts/fonts/fontfiles/utheem.otf");
+}
+/*# sourceMappingURL=all.css.map */
